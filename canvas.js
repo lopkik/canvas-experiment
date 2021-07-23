@@ -13,7 +13,7 @@ window.addEventListener("load", () => {
 
   // drawing tracking
   let painting = false;
-  context.strokeStyle = "rgb(200,0,0)";
+  // context.strokeStyle = "rgb(200,0,0)";
 
   function startPosition(e) {
     painting = true;
