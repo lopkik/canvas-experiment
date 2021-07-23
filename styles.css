@@ -9,3 +9,13 @@
   top: 0;
   left: 0;
 }
+
+#colordiv {
+  position: absolute;
+  z-index: 1;
+  border: solid black 2px;
+}
+
+#colordivheader {
+  cursor: move;
+}
